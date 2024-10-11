@@ -1,0 +1,14 @@
+{
+    "title": "伯奥利安",
+    "item": "tinkers_reforged:baolian_ingot",
+    "text": [
+        {
+            "text": "伯奥利安是由黑曜石、红色绿柱石、绿帘石制成的合金。",
+            "paragraph": true
+        },
+        {
+            "text": "伯奥利安可由一块单位黑曜石，一宝石单位红色绿柱石，一宝石单位绿帘石熔合获得。",
+            "paragraph": true
+        }
+    ]
+}
