@@ -1,14 +1,17 @@
 {
-    "title": "Blazing Copper",
+    "title": "烈焰铜",
     "item": "tinkers_reforged:blazing_copper_ingot",
     "text": [
         {
-            "text": "Blazing Copper is an alloy made of Copper and Blazing Blood.",
+            "text": "烈焰铜是由铜和烈焰血制成的合金。",
             "paragraph": true
         },
         {
-            "text": "Blazing Copper is obtained by mixing 1 Block of copper and 1 Bucket of Blazing Blood in the smeltery/alloyer.",
+            "text": "烈焰铜是由一块单位的铜和一桶单位的烈焰血混合熔炼而成。",
             "paragraph": true
+        },
+        {
+            "text":"明明有着烈焰血的纹理，可以和烈焰血一样当燃料，所以为啥是烈焰血融于铜而不是铜溶于烈焰血？"
         }
     ]
 }

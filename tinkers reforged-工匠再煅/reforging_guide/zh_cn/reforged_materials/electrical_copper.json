@@ -1,13 +1,17 @@
 {
-    "title": "Electrical Copper",
+    "title": "电气铜",
     "item": "tinkers_reforged:electrical_copper_ingot",
     "text": [
         {
-            "text": "Electrical Copper is an alloy made of Blazing Copper and Redstone.",
+            "text": "电气铜是由烈焰铜和红石制成的合金。",
             "paragraph": true
         },
         {
-            "text": "Electrical Copper is obtained by mixing 2 Blazing Copper ingots and 1 block of redstone in the smeltery/alloyer or by pouring redstone on blazing copper parts.",
+            "text": "电气铜由两锭单位的烈焰铜和一块单位的红石熔合而成，或者也可已选择在烈焰铜部件上浇注液态红石获得。",
+            "paragraph": true
+        },
+        {
+            "text": "红石即为电力",
             "paragraph": true
         }
     ]

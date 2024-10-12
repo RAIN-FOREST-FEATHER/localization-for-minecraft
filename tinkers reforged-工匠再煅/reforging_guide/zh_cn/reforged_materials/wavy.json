@@ -1,13 +1,17 @@
 {
-    "title": "Wavy",
+    "title": "波浪合金",
     "item": "tinkers_reforged:wavy_ingot",
     "text": [
         {
-            "text": "Wavy is an composite material made from bloodshroom.",
+            "text": "波浪合金是由血蘑菇制成的混合物",
             "paragraph": true
         },
         {
-            "text": "Wavy is obtained by pouring Osidian on Bloodshroom parts.",
+            "text": "波浪合金由熔融黑曜石浇注血蘑菇配件获得。",
+            "paragraph": true
+        },
+        {
+            "text": "我就知道下界的木头没那么简单",
             "paragraph": true
         }
     ]

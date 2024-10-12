@@ -1,13 +1,17 @@
 {
-    "title": "Felsteel",
+    "title": "魔钢",
     "item": "tinkers_reforged:felsteel_ingot",
     "text": [
         {
-            "text": "Felsteel is an alloy made of Blazing Copper, Ancient Debris and Duralumin.",
+            "text": "魔钢是由烈焰铜，远古残骸，硬铝制成的合金。",
             "paragraph": true
         },
         {
-            "text": "Crusteel is obtained by mixing 2 Blazing Copper ingots, 2 Netherite Scrap and 2 Duralumin ingots in the smeltery/alloyer.",
+            "text": "魔钢由两锭单位烈焰铜，两单位远古残骸，两锭单位硬铝熔合获得。",
+            "paragraph": true
+        },
+        {
+            "text": "这魔钢还没有耐钢魔性呢。",
             "paragraph": true
         }
     ]

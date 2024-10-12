@@ -1,14 +1,17 @@
 {
-    "title": "Durasteel",
+    "title": "耐钢",
     "item": "tinkers_reforged:durasteel_ingot",
     "text": [
         {
-            "text": "Durasteel is an alloy made of Ender, Aluminum and Debris.",
+            "text": "耐钢是由末影珍珠，铝，远古残骸制成的合金。",
             "paragraph": true
         },
         {
-            "text": "Durasteel is obtained by mixing 1 Ender Pearl, 1 Aluminum ingot and 1 Netherite scrap in the smeltery/alloyer.",
+            "text": "耐钢由一个末影珍珠，一锭单位铝，一锭单位远古残骸熔合而成。",
             "paragraph": true
+        },
+        {
+            "text": "现实中耐钢也有魔力嘛"
         }
     ]
 }

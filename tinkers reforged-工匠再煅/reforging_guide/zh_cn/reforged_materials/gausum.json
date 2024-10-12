@@ -1,13 +1,17 @@
 {
-    "title": "Gausum",
+    "title": "高斯姆",
     "item": "tinkers_reforged:gausum_ingot",
     "text": [
         {
-            "text": "Gausum is an alloy made of Blazing Copper, Lapis and Debris.",
+            "text": "高斯姆是由烈焰铜，远古残骸，青金石制成的合金。",
             "paragraph": true
         },
         {
-            "text": "Gausum is obtained by mixing 2 Blazing Copper ingots, 2 Netherite scrap and 1 block of Lapis in the smeltery/alloyer.",
+            "text": "高斯姆由两锭单位烈焰铜，两单位远古残骸，一块单位青金石熔合而成。",
+            "paragraph": true
+        },
+        {
+            "text": "没有生活调味料，精英怪照样能吃瘪",
             "paragraph": true
         }
     ]

@@ -1,13 +1,17 @@
 {
-    "title": "Crusteel",
+    "title": "克拉斯钢",
     "item": "tinkers_reforged:crusteel_ingot",
     "text": [
         {
-            "text": "Crusteel is an alloy made of Copper, Ancient Debris and Amethyst.",
+            "text": "克拉斯钢是由铜，远古残骸，紫水晶制成的合金。",
             "paragraph": true
         },
         {
-            "text": "Crusteel is obtained by mixing 1 Copper ingot, 1 Netherite Scrap and 1 Amethyst gem in the smeltery/alloyer.",
+            "text": "克拉斯钢由一锭单位铜，一单位远古残骸，一宝石单位紫水晶熔合而成。",
+            "paragraph": true
+        },
+        {
+            "text": "不残血不会挖矿系列。",
             "paragraph": true
         }
     ]

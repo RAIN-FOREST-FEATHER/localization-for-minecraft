@@ -2,14 +2,14 @@
   "tool": "tinkers_reforged:frying_pan",
   "text": [
     {
-      "text": "The Frying Pan is a versatile weapon. It has average damage and allows you to set enemies on fire, all while keeping your other hand free."
+      "text": "煎锅是一种多功能武器。 它有着平均的伤害并且能够点燃敌人，但是要求副手必须是空的。"
     },
     {
       "text": "\n"
     }
   ],
   "properties": [
-    "Medium Damage",
-    "Fire Aspect"
+    "中等伤害",
+    "火焰附加"
   ]
 }

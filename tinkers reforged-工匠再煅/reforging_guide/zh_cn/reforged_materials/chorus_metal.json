@@ -1,13 +1,17 @@
 {
-    "title": "Chorus Metal",
+    "title": "紫颂金属",
     "item": "tinkers_reforged:chorus_metal_ingot",
     "text": [
         {
-            "text": "Chorus Metal is an composite material made from chorus.",
+            "text": "紫颂金属是由紫颂植株制成的混合物。",
             "paragraph": true
         },
         {
-            "text": "Chorus Metal is obtained by pouring Kepu on a Popped Chorus Fruit.",
+            "text": "紫颂金属可由凯普在紫颂部件上浇注而成。",
+            "paragraph": true
+        },
+        {
+            "text": "还是紫颂花最有性价比",
             "paragraph": true
         }
     ]

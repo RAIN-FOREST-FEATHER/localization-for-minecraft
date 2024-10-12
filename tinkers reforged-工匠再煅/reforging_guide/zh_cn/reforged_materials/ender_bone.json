@@ -1,9 +1,13 @@
 {
-    "title": "Ender Bone",
+    "title": "末影骨",
     "item": "tinkers_reforged:ender_bone",
     "text": [
         {
-            "text": "Ender bone is a bone material made by pouring molten ender on bone.",
+            "text": "末影骨是骨质材料，向骨头部件上浇注熔融末影珍珠获得。",
+            "paragraph": true
+        },
+        {
+            "text": "我这末影珍珠确实不如烈焰人值钱",
             "paragraph": true
         }
     ]

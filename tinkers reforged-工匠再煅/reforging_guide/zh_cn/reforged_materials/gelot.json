@@ -1,13 +1,17 @@
 {
-    "title": "Gelot",
+    "title": "吉洛特",
     "item": "tinkers_reforged:gelot_ingot",
     "text": [
         {
-            "text": "Gelot is an composite material made from endstone.",
+            "text": "吉洛特是末地石的混合物。",
             "paragraph": true
         },
         {
-            "text": "Gelot is obtained by pouring Diamond on End Stone.",
+            "text": "吉洛特由钻石浇注末地石制成。",
+            "paragraph": true
+        },
+        {
+            "text": "史莱姆狂喜",
             "paragraph": true
         }
     ]

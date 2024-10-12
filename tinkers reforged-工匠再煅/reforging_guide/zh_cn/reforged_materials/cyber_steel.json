@@ -1,14 +1,19 @@
 {
-    "title": "Cyber Steel",
+    "title": "赛博钢",
     "item": "tinkers_reforged:cyber_steel_ingot",
     "text": [
         {
-            "text": "Cyber Steel is an alloy made of Chorus Metal, Magma and Coal.",
+            "text": "赛博钢是由紫颂金属，岩浆，煤制成的合金",
             "paragraph": true
         },
         {
-            "text": "Cyber Steel is obtained by mixing 2 Chorus Metal ingots, 1 magma cream and 1 coal in the smeltery/alloyer.",
+            "text": "赛博钢由两锭单位紫颂金属，一粘液球单位岩浆，一单位煤融合而成",
             "paragraph": true
+        },
+        {
+            "text": "遍历三界最普遍的材料，低端生活却不乏毕业科技",
+            "paragraph": true
+            
         }
     ]
 }

@@ -1,13 +1,17 @@
 {
-    "title": "Qivium",
+    "title": "奇维姆",
     "item": "tinkers_reforged:qivium_ingot",
     "text": [
         {
-            "text": "Qivium is an composite material made from cobalt.",
+            "text": "奇维姆是钴的混合物。",
             "paragraph": true
         },
         {
-            "text": "Qivium is obtained by pouring Magma on Cobalt.",
+            "text": "奇维姆由岩浆浇注钴质配件获得",
+            "paragraph": true
+        },
+        {
+            "text": "出现了，钴的孪生伙伴",
             "paragraph": true
         }
     ]

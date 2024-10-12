@@ -1,13 +1,17 @@
 {
-    "title": "Duralumin",
+    "title": "硬铝",
     "item": "tinkers_reforged:duralumin_ingot",
     "text": [
         {
-            "text": "Duralumin is an alloy made of copper and aluminum.",
+            "text": "硬铝是由铜和铝制成的合金。",
             "paragraph": true
         },
         {
-            "text": "Duralumin is obtained by mixing 1 Copper ingot and 1 Aluminum block in the smeltery/alloyer.",
+            "text": "硬铝由一锭单位铜和一锭单位铝熔合而成。",
+            "paragraph": true
+        },
+        {
+            "text": "原来不是铝黄铜啊",
             "paragraph": true
         }
     ]

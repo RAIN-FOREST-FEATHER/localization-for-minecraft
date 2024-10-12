@@ -1,13 +1,17 @@
 {
-    "title": "Galu",
+    "title": "格伦",
     "item": "tinkers_reforged:galu_ingot",
     "text": [
         {
-            "text": "Galu is an alloy made of Obsidian, Red Beryl and Hureaulite.",
+            "text": "格伦是由黑曜石，红色绿柱石，红磷锰制成的合金。",
             "paragraph": true
         },
         {
-            "text": "Galu is obtained by mixing 1 Obsidian Block, 1 Red Beryl gem and 1 Hureaulite gem in the smeltery/alloyer.",
+            "text": "格伦由一块单位黑曜石，一宝石单位红色绿柱石，一宝石单位红磷锰熔合而成。",
+            "paragraph": true
+        },
+        {
+            "text": "生活调味助我登神！",
             "paragraph": true
         }
     ]

@@ -1,9 +1,13 @@
 {
-    "title": "Hureaulite",
+    "title": "红磷锰矿",
     "item": "tinkers_reforged:deepslate_hureaulite_ore",
     "text": [
         {
-            "text": "Hureaulite is a gem material found underground in deepslate.",
+            "text": "红磷锰矿也是是地下深板岩区的一种宝石",
+            "paragraph": true
+        },
+        {
+            "text": "绿帘石就算了，怎么红磷锰矿也成宝石了？",
             "paragraph": true
         }
     ]

@@ -1,14 +1,19 @@
 {
-    "title": "Magma Steel",
+    "title": "岩浆钢",
     "item": "tinkers_reforged:magma_steel_ingot",
     "text": [
         {
-            "text": "Magma Steel is an alloy made of Iron, Magma and Coal.",
+            "text": "岩浆钢是由铁，液态煤，岩浆制成的合金。",
             "paragraph": true
         },
         {
-            "text": "Magma Steel is obtained by mixing 2 Iron ingots, 1 magma cream and 1 coal in the smeltery/alloyer.",
+            "text": "岩浆钢由两锭单位铁，一粘液球单位岩浆，一单位煤熔合而成。",
+            "paragraph": true
+        },
+        {
+            "text": "妈妈再也不用担心我的mod里面没有钢了。",
             "paragraph": true
         }
+        
     ]
 }

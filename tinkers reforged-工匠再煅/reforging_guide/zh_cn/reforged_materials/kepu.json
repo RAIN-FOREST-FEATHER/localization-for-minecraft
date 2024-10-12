@@ -1,9 +1,13 @@
 {
-    "title": "Kepu",
+    "title": "凯普",
     "item": "tinkers_reforged:kepu_ore",
     "text": [
         {
-            "text": "Kepu is a material found in the end.",
+            "text": "凯普是一种可以在末地找到的矿石。",
+            "paragraph": true
+        },
+        {
+            "text": "好耶，咱们末地也有自己的矿石了",
             "paragraph": true
         }
     ]

@@ -1,13 +1,17 @@
 {
-    "title": "Yokel",
+    "title": "约德尔",
     "item": "tinkers_reforged:yokel_ingot",
     "text": [
         {
-            "text": "Yokel is an alloy made of Kelp, Iron and Aluminum.",
+            "text": "约德尔是由海带，铝，铁制成的合金",
             "paragraph": true
         },
         {
-            "text": "Yokel is obtained by mixing 250mb of Kelp(1 Kelp melted) with 1 Aluminum and Iron ingot in the smeltery/alloyer.",
+            "text": "约德尔由一单位海带和一锭单位的铝，一锭单位的铁熔合而成",
+            "paragraph": true
+        },
+        {
+            "text": "植物居然也有完整的熔融态？",
             "paragraph": true
         }
     ]

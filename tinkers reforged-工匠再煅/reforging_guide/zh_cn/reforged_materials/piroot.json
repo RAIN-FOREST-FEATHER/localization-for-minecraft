@@ -1,13 +1,17 @@
 {
-    "title": "Piroot",
+    "title": "焦土合金",
     "item": "tinkers_reforged:piroot_ingot",
     "text": [
         {
-            "text": "Piroot is an composite material made from endstone.",
+            "text": "焦土合金是末地石的混合物。",
             "paragraph": true
         },
         {
-            "text": "Piroot is obtained by pouring Netherite on End Stone.",
+            "text": "焦土合金由下界合金浇注末地石获得",
+            "paragraph": true
+        },
+        {
+            "text": "我那么多下界合金，结果就这？",
             "paragraph": true
         }
     ]

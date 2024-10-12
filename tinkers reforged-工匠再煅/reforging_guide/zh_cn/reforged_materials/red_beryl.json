@@ -1,10 +1,16 @@
 {
-    "title": "Red Beryl",
+    "title": "红色绿柱石",
     "item": "tinkers_reforged:red_beryl_ore",
     "text": [
         {
-            "text": "Red beryl is a gem material found underground.",
+            "text": "红色绿柱石是在地下找到的一种宝石。",
             "paragraph": true
+        },
+        {
+            "text": "好一个红宝石",
+            "paragraph": true
+            
+
         }
     ]
 }

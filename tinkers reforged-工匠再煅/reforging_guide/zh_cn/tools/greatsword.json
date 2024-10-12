@@ -2,14 +2,14 @@
   "tool": "tinkers_reforged:greatsword",
   "text": [
     {
-      "text": "The Greatsword is a versatile weapon. It has good damage and allows you to knock back multiple enemies at once with a sweep attack, all while keeping your other hand free."
+      "text": "大剑也是一种多功能武器。 它有着良好的伤害，并且在一次横扫攻击便能击退多个敌人。同样的，保持副手闲置才能使用。"
     },
     {
       "text": "\n"
     }
   ],
   "properties": [
-    "Medium Damage",
-    "Sweep attack"
+    "中等伤害",
+    "横扫之刃"
   ]
 }
