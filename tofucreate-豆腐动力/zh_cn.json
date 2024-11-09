@@ -1,0 +1,17 @@
+{
+  "fluid.tofucreate.soymilk_annin": "SoyMilk Annin",
+  "fluid.tofucreate.soymilk_apple": "SoyMilk Apple",
+  "fluid.tofucreate.soymilk_cocoa": "SoyMilk Cocoa",
+  "fluid.tofucreate.soymilk_fruits": "SoyMilk Fruits",
+  "fluid.tofucreate.soymilk_honey": "SoyMilk Honey",
+  "fluid.tofucreate.soymilk_kinako": "SoyMilk Kinako",
+  "fluid.tofucreate.soymilk_pudding": "SoyMilk Pudding",
+  "fluid.tofucreate.soymilk_pumpkin": "SoyMilk Pumpkin",
+  "fluid.tofucreate.soymilk_ramune": "SoyMilk Ramune",
+  "item.tofucreate.tofumetal_plate": "钢豆腐板",
+  "item.tofucreate.tf_compact_circuit": "豆腐压缩电子元件",
+  "item.tofucreate.incomplete_tf_compact_circuit": "未完成的压缩豆腐电子元件",
+  "item.tofucreate.tofu_precision_mechanism": "精致豆腐机械装置",
+  "item.tofucreate.incomplete_tofu_precision_mechanism": "未完成的精致豆腐装置",
+  "itemGroup.tofucreate": "TofuCreate"
+}

@@ -1,0 +1,15 @@
+{
+  "block.molten_vents.active_molten_asurine": "活跃的皓蓝石喷口",
+  "block.molten_vents.active_molten_veridium": "活跃的辉绿岩喷口",
+  "block.molten_vents.active_molten_crimsite": "活跃的绯红岩喷口",
+  "block.molten_vents.active_molten_ochrum": "活跃的赭金砂喷口",
+  "block.molten_vents.active_molten_scorchia": "活跃的焦黑熔渣喷口",
+  "block.molten_vents.active_molten_scoria": "活跃的熔渣喷口",
+
+  "block.molten_vents.dormant_molten_asurine": "休眠的皓蓝石喷口",
+  "block.molten_vents.dormant_molten_veridium": "休眠的辉绿岩喷口",
+  "block.molten_vents.dormant_molten_crimsite": "休眠的绯红盐喷口",
+  "block.molten_vents.dormant_molten_ochrum": "休眠的赭金砂喷口",
+  "block.molten_vents.dormant_molten_scorchia": "休眠的焦黑熔渣喷口",
+  "block.molten_vents.dormant_molten_scoria": "休眠的熔渣喷口"
+}
